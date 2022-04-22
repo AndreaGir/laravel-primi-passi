@@ -8,6 +8,7 @@
 </head>
 <body>
     
+    @include('parziale.footer')
 
     <header>
         <button>
